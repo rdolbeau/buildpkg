@@ -97,7 +97,7 @@ _os=$(${__uname} -sr|${__sed} -e 's/ //g' -e 's/\.//g'|${__tr} '[A-Z]' '[a-z]')
 # pkg information.
 # The following 3 vars can be used when constructing pkg metadata
 # Override as necessary.
-pkgprefix=SB
+pkgprefix=TGC
 pkgname=$pkgprefix$topdir # overriding this will be common
 name=$topdir # as will this ditto
 
