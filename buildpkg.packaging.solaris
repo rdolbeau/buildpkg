@@ -46,8 +46,8 @@ pkgvendor="http://change/me/please"
 pkgdesc="mumble mubmle... hmm someone forgot to fill this out!"
 
 # vendor & contact information
-pkgedby="Tom G. Christensen"
-email=swpkg@jupiterrise.com
+pkgedby="Romain Dolbeau"
+email=romain.tgcware@dolbeau.name
 
 # Set some helper vars that describes arch and OS version
 arch=`uname -p`
